@@ -1,0 +1,8 @@
+type: llm_chain
+llm:
+  provider: openai
+  config:
+    model: text-davinci-003
+prompt:
+  template: "What is the capital of {country}?"
+  input_variables: ["country"]
