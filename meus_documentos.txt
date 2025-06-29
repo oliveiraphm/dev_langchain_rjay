@@ -1,0 +1,2 @@
+A LangChain é uma biblioteca open-source que ajuda desenvolvedores a criar aplicações com LLMs que são conscientes de contexto e estado, como chatbots e agentes.
+Ela facilita a integração com fontes externas de dados como bancos de dados, APIs e arquivos locais.
